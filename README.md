@@ -13,39 +13,39 @@
 -->
 🚀 About Me
 
-🔭 I'm currently working on 웹 애플리케이션 개발
+🔭 I'm currently working on Systems Engineering
+
 🌱 I'm currently learning Spring Boot, React
-💬 Ask me about Java, Web Development
-📫 How to reach me: your.email@example.com
-⚡ Fun fact: 코딩하면서 커피를 하루에 5잔은 마신다
+
+📫 How to reach me: gimhansu@naver.com
+
+⚡ Fun fact: 코딩하면서 커피를 하루에 2잔은 마신다
 
 🛠️ Tech Stack
 Languages
+Shell, Python
 
-Frameworks & Libraries
+Frameworks
+Spring Boot
 
-Tools & Technologies
 
 📊 GitHub Stats
 <div align="center">
 
 </div>
 🏆 Current Projects
-프로젝트 1 이름
+Kafka 활용
 
-📝 Description: 프로젝트에 대한 간단한 설명
-🛠️ Tech Stack: Java, Spring Boot, MySQL
+📝 Description: Kafka를 활용한 Event 아키텍처관련 실습
+🛠️ Tech Stack: Java, Spring Boot, ySQL, Flink, Docker
 🌟 Status: In Development
 
-프로젝트 2 이름
+Spring Boot 활용
 
-📝 Description: 프로젝트에 대한 간단한 설명
-🛠️ Tech Stack: React, Node.js, MongoDB
-🌟 Status: Completed
+📝 Description: Spring Boot에 관련 된 Security, jpa 등 활용한 실습
+🛠️ Tech Stack: React Docker, Java, Spring Boot
+🌟 Status: In Development
 
 📫 Connect with Me
 
 📈 Profile Views
-
-
-⭐️ From 본인username
