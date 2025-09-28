@@ -37,13 +37,17 @@ Spring Boot
 Kafka 활용
 
 📝 Description: Kafka를 활용한 Event 아키텍처관련 실습
+
 🛠️ Tech Stack: Java, Spring Boot, ySQL, Flink, Docker
+
 🌟 Status: In Development
 
 Spring Boot 활용
 
 📝 Description: Spring Boot에 관련 된 Security, jpa 등 활용한 실습
+
 🛠️ Tech Stack: React Docker, Java, Spring Boot
+
 🌟 Status: In Development
 
 📫 Connect with Me
