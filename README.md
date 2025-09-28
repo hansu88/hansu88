@@ -34,6 +34,7 @@ Spring Boot
 
 </div>
 🏆 Current Projects
+
 Kafka 활용
 
 📝 Description: Kafka를 활용한 Event 아키텍처관련 실습
