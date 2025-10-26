@@ -19,11 +19,11 @@
 
 📫 How to reach me: gimhansu@naver.com
 
-⚡ Fun fact: 코딩하면서 커피를 하루에 2잔은 마신다
+⚡ fact: 커피를 하루에 2잔은 마신다
 
 🛠️ Tech Stack
 Languages
-Shell, Python
+Shell, Python, Java
 
 Frameworks
 Spring Boot
@@ -33,24 +33,3 @@ Spring Boot
 <div align="center">
 
 </div>
-🏆 Current Projects
-
-Kafka 활용
-
-📝 Description: Kafka를 활용한 Event 아키텍처관련 실습
-
-🛠️ Tech Stack: Java, Spring Boot, ySQL, Flink, Docker
-
-🌟 Status: In Development
-
-Spring Boot 활용
-
-📝 Description: Spring Boot에 관련 된 Security, jpa 등 활용한 실습
-
-🛠️ Tech Stack: React Docker, Java, Spring Boot
-
-🌟 Status: In Development
-
-📫 Connect with Me
-
-📈 Profile Views
